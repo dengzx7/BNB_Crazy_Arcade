@@ -22,7 +22,7 @@ Clone后在当前目录下执行命令
 ## 项目功能
 我们根据实际，实现了以下功能的需求。
 <div align=center>
-<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8A%9F%E8%83%BD%E8%A1%A8.png" width="700">
+<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8A%9F%E8%83%BD%E8%A1%A8.png" width="800">
 </div>
 
 ## 系统框图
@@ -31,12 +31,12 @@ Clone后在当前目录下执行命令
 </div>
 
 ## 项目展示
-* 游戏界面
+### 游戏界面
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.PNG" width="700">
 </div>
 <br>
-* 单人模式
+### 单人模式
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F1.PNG" width="700">
 </div>
@@ -50,10 +50,10 @@ Clone后在当前目录下执行命令
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F4.PNG" width="700">
 </div>
 <br>
-* 联机模式
+### 联机模式
 (image)
 <br>
-* 休闲模式
+### 休闲模式
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E4%BC%91%E9%97%B2%E6%A8%A1%E5%BC%8F.PNG" width="700">
 </div>
