@@ -35,7 +35,7 @@ Clone后在当前目录下执行命令
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.PNG" width="700">
 </div>
-<br>
+
 ### 单人模式
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F1.PNG" width="700">
@@ -49,10 +49,10 @@ Clone后在当前目录下执行命令
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F4.PNG" width="700">
 </div>
-<br>
+
 ### 联机模式
 (image)
-<br>
+
 ### 休闲模式
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E4%BC%91%E9%97%B2%E6%A8%A1%E5%BC%8F.PNG" width="700">
