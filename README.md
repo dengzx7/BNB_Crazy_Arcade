@@ -15,9 +15,26 @@ SYSU Python Game Project<br>
 
 ## 运行方式
 Clone后在当前目录下执行命令
+### 单人模式
 ```
 > python BNB.py
 ```
+### 联机模式
+打开cmd执行ipconfig找到本机的ipv4地址，将settings.py文件下的server_name列表中的ip地址替换为本机的ipv4地址，接着执行命令
+'''
+> python server.py
+'''
+此时可以看到如下图，表明server已经打开。
+(image)
+接着再次打开cmd窗口cd到文件目录，按照玩家数量依次执行client.py。例如双人对战，需要依次重新打开cmd窗口到文件目录，并执行如下命令
+'''
+> python client1.py
+> python client2.py
+'''
+对client1选择 联机模式->创建房间<br>
+对client2选择 联机模式->更新房间->进入已创建的房间<br>
+最终两个玩家进入了同一个游戏房间，接着就可以开始游戏实现双人对战了。
+(image)
 
 ## 项目功能
 我们根据实际，实现了以下功能的需求。
