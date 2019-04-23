@@ -20,15 +20,15 @@ Clone后在当前目录下执行命令
 > python BNB.py
 ```
 ### 联机模式
-打开cmd执行ipconfig找到本机的ipv4地址，将settings.py文件下的server_name列表中的ip地址替换为本机的ipv4地址，接着执行命令
+打开cmd执行ipconfig找到本机的ipv4地址，将settings.py文件下的server_name列表中的ip地址替换为本机的ipv4地址，接着执行命令<br>
 '''
 > python server.py
 '''
 此时可以看到如下图，表明server已经打开。
 <div align=center>
-<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA.PNG" width="800">
+<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA.PNG" width="400">
 </div>
-接着再次打开cmd窗口cd到文件目录，按照玩家数量依次执行client.py。例如双人对战，需要依次重新打开cmd窗口到文件目录，并执行如下命令
+接着再次打开cmd窗口cd到文件目录，按照玩家数量依次执行client.py。例如双人对战，需要依次重新打开cmd窗口到文件目录，并执行如下命令<br>
 '''
 > python client1.py
 > python client2.py
@@ -37,7 +37,7 @@ Clone后在当前目录下执行命令
 对client2选择 联机模式->更新房间->进入已创建的房间<br>
 最终两个玩家进入了同一个游戏房间，接着就可以开始游戏实现双人对战了。
 <div align=center>
-<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E8%81%94%E6%9C%BA%E6%A8%A1%E5%BC%8F%E6%88%BF%E9%97%B4.PNG" width="800">
+<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E8%81%94%E6%9C%BA%E6%A8%A1%E5%BC%8F%E6%88%BF%E9%97%B4.PNG" width="700">
 </div>
 
 ## 项目功能
