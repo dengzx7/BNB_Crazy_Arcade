@@ -19,6 +19,11 @@ Clone后在当前目录下执行命令
 ```
 > python BNB.py
 ```
+运行后可以看到游戏界面，选择 **单人模式**<br>
+<div align=center>
+<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.PNG" width="700">
+</div>
+
 * 联机模式
 打开cmd执行ipconfig找到本机的ipv4地址，将settings.py文件下的server_name列表中的ip地址替换为本机的ipv4地址，接着执行命令<br>
 ```
@@ -55,11 +60,6 @@ Clone后在当前目录下执行命令
 </div>
 
 ## 项目展示
-### 游戏界面
-<div align=center>
-<img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.PNG" width="700">
-</div>
-
 ### 单人模式
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F1.PNG" width="700">
