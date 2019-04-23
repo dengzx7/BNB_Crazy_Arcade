@@ -24,7 +24,7 @@ Clone后在当前目录下执行命令
 ```
 > python server.py
 ```
-此时可以看到如下图，表明server已经打开。
+此时可以看到如下图，表明server已经打开。<br>
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA.PNG" width="400">
 </div>
@@ -35,7 +35,7 @@ Clone后在当前目录下执行命令
 ```
 对client1选择 联机模式->创建房间<br>
 对client2选择 联机模式->更新房间->进入已创建的房间<br>
-最终两个玩家进入了同一个游戏房间，接着就可以开始游戏实现双人对战了。
+最终两个玩家进入了同一个游戏房间，接着就可以开始游戏实现双人对战了。<br>
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E8%81%94%E6%9C%BA%E6%A8%A1%E5%BC%8F%E6%88%BF%E9%97%B4.PNG" width="700">
 </div>
