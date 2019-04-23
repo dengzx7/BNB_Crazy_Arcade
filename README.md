@@ -15,7 +15,7 @@ SYSU Python Game Project<br>
 
 ## 运行方式
 Clone后在当前目录下执行命令
-* 单人模式
+#### 单人模式
 ```
 > python BNB.py
 ```
@@ -24,7 +24,7 @@ Clone后在当前目录下执行命令
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.PNG" width="700">
 </div>
 
-* 联机模式
+#### 联机模式
 打开cmd执行ipconfig找到本机的ipv4地址，将settings.py文件下的server_name列表中的ip地址替换为本机的ipv4地址，接着执行命令<br>
 ```
 > python server.py
