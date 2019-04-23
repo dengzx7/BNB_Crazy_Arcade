@@ -28,11 +28,13 @@ Clone后在当前目录下执行命令
 <div align=center>
 <img src="https://github.com/dengzx7/BNB_Crazy_Arcade/blob/master/images2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA.PNG" width="400">
 </div>
+
 接着再次打开cmd窗口cd到文件目录，按照玩家数量依次执行client.py。例如双人对战，需要依次重新打开cmd窗口到文件目录，并执行如下命令<br>
 ```
 > python client1.py
 > python client2.py
 ```
+
 对client1选择 联机模式->创建房间<br>
 对client2选择 联机模式->更新房间->进入已创建的房间<br>
 最终两个玩家进入了同一个游戏房间，接着就可以开始游戏实现双人对战了。<br>
