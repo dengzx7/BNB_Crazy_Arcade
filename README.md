@@ -1,13 +1,13 @@
 # BNB_Crazy_Arcade
 SYSU Python Game Project<br>
 基于pygame的集单人、联网、休闲模式于一体的泡泡堂游戏<br>
-关于游戏中 **单人模式AI Bot** 的实现可以参考我的一篇CSDN博客 [BNB_AI_Bot设计](https://blog.csdn.net/AbyssalSeaa/article/details/81179129)
+关于游戏中 **单人模式AI Bot** 的实现可以参考我的一篇CSDN博客 [泡泡堂游戏设计](https://blog.csdn.net/AbyssalSeaa/article/details/81179129)
 
 ## 项目成员与分工
-* 邓宗湘：道具模块(props)、AI模块(AIModel)
-* 杨仲恒：泡泡模块(bubbles)、联机模式(netMode)
-* 姚振杰：地图模块(plats)、休闲模式(pushBoxMode)
-* 张仲岳：人物模块(characters)、UI及动画设计
+* DZX：道具模块(props)、AI模块(AIModel)
+* YZH：泡泡模块(bubbles)、联机模式(netMode)
+* YZJ：地图模块(plats)、休闲模式(pushBoxMode)
+* ZJY：人物模块(characters)、UI及动画设计
 
 ## 项目环境
 编程语言：python3.6<br>
