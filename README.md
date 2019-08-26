@@ -1,7 +1,7 @@
 # BNB_Crazy_Arcade
 SYSU Python Game Project<br>
 基于pygame的集单人、联网、休闲模式于一体的泡泡堂游戏<br>
-关于游戏中 **单人模式AI Bot** 的实现可以参考我的一篇CSDN博客 [泡泡堂游戏设计](https://blog.csdn.net/AbyssalSeaa/article/details/81179129)
+关于游戏中 **单人模式AI Bot** 的实现可以参考我的一篇CSDN博客 ->[泡泡堂游戏设计](https://blog.csdn.net/AbyssalSeaa/article/details/81179129)
 
 ## 项目成员与分工
 * DZX：道具模块(props)、AI模块(AIModel)
